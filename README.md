@@ -59,8 +59,8 @@ Each entry contains `prompt` (natural language), `parameters` (price, cost, salv
 ## Citation
 
 ```bibtex
-@inproceedings{anonymous2026agentic,
-  title={Agentic OR: Benchmarking LLM Agents on Operations Research Tasks},
+@inproceedings{anonymous2026solver,
+  title={Solver-in-the-Loop: MDP-Based Benchmarks for Self-Correction and Behavioral Rationality in Operations Research},
   author={Anonymous},
   booktitle={International Conference on Machine Learning},
   year={2026}
